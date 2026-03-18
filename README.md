@@ -23,7 +23,16 @@
 - MySQL, MongoDB  
 
 **Cloud & DevOps:**
-- AWS (S3, EC2, Lambda), Docker, Kubernetes, Jenkins  
+- AWS (S3, EC2, Lambda), Docker, Kubernetes, Jenkins
+
+## 🤝 Open to Collaboration
+
+🚀 I’m actively looking to collaborate on innovative projects involving:
+
+- 🔹 Java + AI/ML integrations  
+- 🔹 Building intelligent, scalable backend systems  
+- 🔹 AI-powered web applications using Spring Boot & React  
+- 🔹 Open-source contributions in AI-driven solutions  
 
 ## 🚀 Projects
 
