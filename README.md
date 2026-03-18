@@ -1,16 +1,60 @@
-## Hi there 👋
+## Hi there👋,I'm IndraniKannam
 
-<!--
-**indrani1439/indrani1439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Java Full Stack Developer | Spring Boot • React • AWS • Microservices  
+🚀 Passionate about building scalable, cloud-native applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👩‍💻 About Me
+- 🔭 I’m currently working on full-stack web applications  
+- 🌱 Learning advanced Microservices & Cloud Architecture  
+- 💡 Strong in Java, Spring Boot, REST APIs, and React  
+- 🎯 Goal: Build efficient and scalable distributed systems  
+
+
+## 🛠️ Tech Stack
+
+**Backend:**
+- Java, Spring Boot, Microservices, REST APIs  
+
+**Frontend:**
+- React.js, JavaScript, HTML, CSS  
+
+**Database:**
+- MySQL, MongoDB  
+
+**Cloud & DevOps:**
+- AWS (S3, EC2, Lambda), Docker, Kubernetes, Jenkins  
+
+## 🚀 Projects
+
+### 🔹 Healthcare Provider Portal
+- Developed secure REST APIs using Spring Boot  
+- Built responsive UI with React.js  
+- Integrated AWS services for document storage  
+- Improved performance by optimizing SQL queries  
+
+### 🔹 Employee Management System
+- Designed full-stack application for HR operations  
+- Implemented authentication & role-based access  
+- Built reusable frontend components  
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?indranikannam=your-indranikannam&show_icons=true&theme=default)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn:https://www.linkedin.com/in/indranikannam
+- 📧 Email:indranikannam22@gmail.com 
+
+---
+
+## 🎯 Career Goals
+- Building scalable microservices-based applications  
+- Exploring cloud-native technologies  
+- Contributing to open-source projects  
+
+---
 -->
