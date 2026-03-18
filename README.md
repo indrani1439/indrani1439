@@ -38,11 +38,6 @@
 - Implemented authentication & role-based access  
 - Built reusable frontend components  
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?indrani1439=your-indrani1439&show_icons=true&theme=default)
-
----
 
 ## 🌐 Connect With Me
 
