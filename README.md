@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?indranikannam=your-indranikannam&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?indrani1439=your-indrani1439&show_icons=true&theme=default)
 
 ---
 
